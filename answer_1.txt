@@ -1,6 +1,8 @@
 Dimensionality reduction is basically a way to represent high dimensional data in lesser dimensions.
-High dimensional data is difficult to work with, analyse, visualize and store. In a lot of cases
-the data has redundancy along some dimensions or it can be represented as a combination of multiple dimensions. 
-Even dimensions hoften have correlations amongst them.
-This is what is taken advantage of to reduce the dimensionality.
-It is simply a compressing technique.
+High dimensional data is difficult to work with, analyse, visualize and store. Working with High-dimensional 
+representations of data leads to a very complex model which also leads to overfitting.
+In a lot of cases the data has redundancy along some dimensions or it can be represented as a combination of 
+multiple dimensions. Even dimensions often have correlations amongst them.
+These features enable us to reduce the dimensionality.
+It is basically a compressing technique.
+The dimensionality is reduced in such a way so that there is no loss of information.
