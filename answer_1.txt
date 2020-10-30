@@ -6,3 +6,11 @@ multiple dimensions. Even dimensions often have correlations amongst them.
 These features enable us to reduce the dimensionality.
 It is basically a compressing technique.
 The dimensionality is reduced in such a way so that there is no loss of information.
+
+There are various ways to reduce dimensions.
+One is feature selection and one is feature extraction.
+In feature selection, we try to find a subset of the original set of features.
+In feature extraction, we usually focus on combining different features to reduce the dimensionality.
+
+One famous method for dimension reduction is PCA, where the idea of the variance of data being highest in the
+lower dimension is leveraged to map high-dimensional data to a lower-dimension.
